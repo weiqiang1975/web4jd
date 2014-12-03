@@ -68,10 +68,10 @@
   define('DB_TYPE', 'mysql');
   define('DB_PREFIX', '');
   define('DB_CHARSET', 'utf8');
-  define('DB_SERVER', 'mysql.jae.jd.com:4066');
-  define('DB_SERVER_USERNAME', 'XZG96Yc0');
-  define('DB_SERVER_PASSWORD', 'oiD3uDCPxVqM');
-  define('DB_DATABASE', 'weiqianglord_mysql_vcwjkudj');
+  define('DB_SERVER', '127.7.93.130:3306');
+  define('DB_SERVER_USERNAME', 'adminmb745XR');
+  define('DB_SERVER_PASSWORD', 'bu4jKR1my9p5');
+  define('DB_DATABASE', 'test');
 
   // The next 2 "defines" are for SQL cache support.
   // For SQL_CACHE_METHOD, you can select from:  none, database, or file
